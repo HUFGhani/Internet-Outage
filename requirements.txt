@@ -1,0 +1,4 @@
+python-dotenv==0.10.2
+selenium==3.141.0
+urllib3==1.25.2
+virtualenv==16.6.0
